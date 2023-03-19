@@ -1,4 +1,7 @@
 # main links links
 main:
+  - title: "Resume"
+    url: /Resume/    
+
   - title: "Teaching"
     url: /teaching/    
