@@ -11,36 +11,50 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in University of Massachusetts Amherst, 2018-2022
+    * Major in Computer Science
+    * Major in Environmental Science
+* M.S. in University of Massachusetts Amherst, 2022-2024 (expected)
+    * Major in Computer Science
+    * Bay State Fellow
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2023 Summer - Present: Software Engineer Intern
+  * X-Camp
+  * Supervisor: Yuan Xu
+  * Duties included: 
+    * Zoom Integration with Education Platform
+    * Detect & Remove Duplication using NLP Technique
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+* 2022 Fall - Present: Research Assistant
+  * University of Massachusetts Amherst
+  * Supervisor: Cyrus Cousins, Yair Zick
+  * Duties included: 
+    * Research on the Human-AI Cooperation for Fairness Elicitation
+
+* 2022 Fall - Present: Teaching Assistant
+  * University of Massachusetts Amherst
+  * Supervisor: Parviz Kermani 
+  * Duties included: 
+    *  Host weekly office hour and be accessible for students in many forms, such as responding piazza in short time
+    * Prepare and design the homework, exam, and challenge to help student have a better understanding of the concept
+    * Grade homework and exam
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: 
+  * Python, Go, C#, HTML, CSS, XAML, TypeScript, JavaScript, C++
+* Library:
+  * TensorFlow, PyTorch, NumPy, Pandas, Flask, FastAPI
+* Framework: 
+  * Kubernetes, Docker, OpenCV, React, Node.js, PostgreSQL
+* Tools: 
+  * Git, AWS S3, OSS, Bash, Conda
+* Operating System:
+  * Unix/Linux, OSX/IOS, Windows
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks
 ======
@@ -53,7 +67,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

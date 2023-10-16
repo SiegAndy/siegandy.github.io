@@ -1,7 +1,13 @@
 # main links links
 main:
   - title: "Resume"
-    url: /files/Resume.pdf    
+    url: /files/Chang Zeng's Resume.pdf    
+
+  - title: "CV"
+    url: /cv/    
+
+  - title: "Talk"
+    url: /talks/   
 
   - title: "Teaching"
     url: /teaching/    
