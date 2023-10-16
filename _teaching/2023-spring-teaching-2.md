@@ -5,7 +5,7 @@ type: "Undergraduate course, Teaching assistant"
 permalink: /teaching/2023-spring-teaching-2
 venue: "The Manning College of Information and Computer Sciences at the University of Massachusetts Amherst"
 date: 2023-02-06
-location: "Amherst, US"
+location: "Amherst, Massachusetts"
 ---
 
 Course Objective

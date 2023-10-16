@@ -2,10 +2,10 @@
 title: "COMPSCI 560: Introduction To Computer & Network Security"
 collection: teaching
 type: "Graduate course, Teaching assistant"
-permalink: /teaching/2024-fall-teaching-3
+permalink: /teaching/2023-fall-teaching-3
 venue: "The Manning College of Information and Computer Sciences at the University of Massachusetts Amherst"
-date: 2022-09-05
-location: "Amherst, US"
+date: 2023-09-05
+location: "Amherst, Massachusetts"
 ---
 
 Course Objective

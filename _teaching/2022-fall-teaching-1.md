@@ -5,7 +5,7 @@ type: "Graduate course, Teaching assistant"
 permalink: /teaching/2022-fall-teaching-1
 venue: "The Manning College of Information and Computer Sciences at the University of Massachusetts Amherst"
 date: 2022-09-01
-location: "Amherst, US"
+location: "Amherst, Massachusetts"
 ---
 
 Course Objective
