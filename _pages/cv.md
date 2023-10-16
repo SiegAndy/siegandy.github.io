@@ -35,7 +35,7 @@ Skills
   
 
 
-Work experience
+Work Experience
 ======
 * *Software Engineer Intern - X-Camp - 2023-Present*
   * Supervisor: Yuan Xu
@@ -58,7 +58,7 @@ Work experience
 
 
 
-Project experience
+Project Experience
 ======
 * *Autoencoder Optimization - Amherst, MA - 2022-2023*
   * Software Engineer - Back-End (Python, Deep Learning, MLP, CNN, RNN)	
