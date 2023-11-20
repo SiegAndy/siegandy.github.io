@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Chang Zeng's CV](/files/Chang_Zeng's_CV.pdf)
+
 Education
 ======
 * B.S. in University of Massachusetts Amherst, 2018-2022
@@ -16,23 +18,19 @@ Education
     * Major in Environmental Science
 * M.S. in University of Massachusetts Amherst, 2022-2024 (expected)
     * Major in Computer Science
-    * Bay State Fellow
 
-
-
-Skills
+Awards
 ======
-* Programming Languages: 
-  * Python, Go, C#, HTML, CSS, XAML, TypeScript, JavaScript, C++
-* Library:
-  * TensorFlow, PyTorch, NumPy, Pandas, Flask, FastAPI
-* Framework: 
-  * Kubernetes, Docker, OpenCV, React, Node.js, PostgreSQL
-* Tools: 
-  * Git, Github, Gitlab, AWS S3, OSS, Bash, Conda
-* Operating System:
-  * Unix/Linux, OSX/IOS, Windows
-  
+* Bay State Fellowship at the University of Massachusetts Amherst.
+* Dean's List recipient for the following semesters: Fall 2018, Spring 2019, Fall 2019, Spring 2020, Fall 2020, Spring 2021, Fall 2021, and Spring 2022 at the University of Massachusetts Amherst.
+
+
+Research Experience
+======
+* *Human-AI Cooperation for Personalized Fairness Optimization - University of Massachusetts Amherst - 2022-Present*
+  * Supervisor: Cyrus Cousins and Yair Zick
+  * Contribution: 
+    * Analyzing and Utilizing Power Mean Fairness Concepts to elicit $\varepsilon$-approximate Human Cardinal Fairness Concept.
 
 
 Work Experience
@@ -88,6 +86,19 @@ Project Experience
     * Employed various machine learning models, including the **BERT transformer** (**TensorFlow**), along with advanced techniques such as **random forests** and **stratified k-fold**, to accurately classify eye behavior patterns. 
     * Utilized **OpenCV** libraries to capture and process live camera feed in real-time, extracting relevant features from the eye images, such as pupil dilation and eye movement, to analyze and determine the user's eye activity.
 
+
+Skills
+======
+* Programming Languages: 
+  * Python, Go, C#, HTML, CSS, XAML, TypeScript, JavaScript, C++
+* Library:
+  * TensorFlow, PyTorch, NumPy, Pandas, Flask, FastAPI
+* Framework: 
+  * Kubernetes, Docker, OpenCV, React, Node.js, PostgreSQL
+* Tools: 
+  * Git, Github, Gitlab, AWS S3, OSS, Bash, Conda
+* Operating System:
+  * Unix/Linux, OSX/IOS, Windows
 
   
 Talks
