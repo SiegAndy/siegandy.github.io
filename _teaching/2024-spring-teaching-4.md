@@ -10,13 +10,14 @@ location: "Amherst, Massachusetts"
 
 Course Objective
 ======
+This course trains students to detect and analyze weaknesses and vulnerabilities in target systems as a method of assessing the security of a system. Such techniques have various names, including penetration testing and ethical hacking. We focus on tools and techniques that an attacker would employ but from the perspective of an ethical system administrator. Broad topics include: tools and techniques for penetration testing and attacks, information gathering, social engineering, and defenses. Specific topics include malware, denial-of-service attacks, man-in-the-middle (MITM) attacks, SQL injection, buffer overflow, session hijacking, and system hacking, network sniffing and scans, wireless encryption weaknesses and other Wi-Fi issues, IDS/Firewall evasion, Metasploit tools, physical security, and setting up honeypots.
+
+Key Takeaways:
 * To learn and understand the phases of penetration testing (pentesting).
 * To learn the core techniques of penetration testing from an ethical perspective, and to gain hands-on
 experience with these techniques.
 * To learn and gain hands-on experience with the core defenses against each technique.
 * To learn how to apply these skills as a professional in information security.
-
-This course trains students to detect and analyze weaknesses and vulnerabilities in target systems as a method of assessing the security of a system. Such techniques have various names, including penetration testing and ethical hacking. We focus on tools and techniques that an attacker would employ but from the perspective of an ethical system administrator. Broad topics include: tools and techniques for penetration testing and attacks, information gathering, social engineering, and defenses. Specific topics include malware, denial-of-service attacks, man-in-the-middle (MITM) attacks, SQL injection, buffer overflow, session hijacking, and system hacking, network sniffing and scans, wireless encryption weaknesses and other Wi-Fi issues, IDS/Firewall evasion, Metasploit tools, physical security, and setting up honeypots.
 
 My Responsibility
 ======
