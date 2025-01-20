@@ -16,7 +16,9 @@ Education
 * B.S. in University of Massachusetts Amherst, 2018-2022
     * Major in Computer Science
     * Major in Environmental Science
-* M.S. in University of Massachusetts Amherst, 2022-2024 (expected)
+* M.S. in University of Massachusetts Amherst, 2022-2024
+    * Major in Computer Science
+* Ph.D. in University of Massachusetts Amherst, 2024-2028 (expected)
     * Major in Computer Science
 
 Awards

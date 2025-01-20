@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a master student in computer science major at the University of Massachusetts Amherst. Currently, I am supervised by [Cyrus Cousins](https://cs.brown.edu/~ccousins/) and [Yair Zick](https://people.cs.umass.edu/~yzick/people.html) on the topic of Human-AI Cooperation for Personalized Fairness Optimization. Before I apply for the master's degree, I obtained a dual Bachelor's degree in both computer science major and environmental science major at the University of Massachusetts Amherst.
+I am currently pursuing a Ph.D. in Computer Science at the University of Massachusetts Amherst, where I am advised by [Razieh Negin Rahimi](https://people.cs.umass.edu/~rahimi/). My research focuses on recommendation systems and personalization.
+
+Previously, during my master's program, I worked under the supervision of [Cyrus Cousins](https://cs.brown.edu/~ccousins/) and [Yair Zick](https://people.cs.umass.edu/~yzick/people.html) on Human-AI Cooperation for Personalized Fairness Optimization. Prior to my master's, I earned a dual Bachelor's degree in Computer Science and Environmental Science at the University of Massachusetts Amherst.
